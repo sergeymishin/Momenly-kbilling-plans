@@ -1,0 +1,9 @@
+{
+  "2013-05-01T00:00:00.000Z": {
+    "examplePlan": "com.example.ExamplePlan",
+    "examplePlan2": "com.example.ExamplePlan"
+  },
+  "2013-05-02T00:00:00.000Z": {
+    "examplePlan2": "com.example.ExamplePlan2"
+  }
+}
