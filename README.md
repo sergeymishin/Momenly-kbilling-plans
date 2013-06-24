@@ -18,7 +18,7 @@ This repo contains example billing plans for use with [KillingBilling](https://w
 1.  Tweak `com.example.ExamplePlan` and `com.example.ExamplePlan2` or write your own. 
 2.  Tweak `src/main/resources/plans.json` file. 
 3.  Commit changes, push to GitHub. 
-4.  Deploy your KillingBilling project to the API Endpoint: hit "**Deploy**" on the project page.
+4.  Deploy your KillingBilling project to the API Endpoint: hit **Deploy** on the project page.
 
 ### Start using KillingBilling API
 
